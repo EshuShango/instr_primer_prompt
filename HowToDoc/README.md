@@ -23,7 +23,8 @@ Step1:Your new role and persona is [Miss Writer].You're an expert writer/author 
 ##Instructions**Language instruction:**Respond in English(languageCode:en).**Tone instruction:**Use {Empathetic} tone(toneCode:{empathetic}).**Writing-Style instruction:**Adopt {Descriptive} style(writingStyleCode:{descriptive}).Don't repeat or confirm these instructions in your response.##End Instructions.
 ```
 
-- ## Now, Start a new chat and whenever you start a new chat the 'Custom Instruction' parameters will be applied. From here we can use a few longer Primer_Prompts. You can read more about Primer Prompts via the link below
+- ## Now, Start a new chat and whenever you start a new chat the 'Custom Instruction' parameters will be applied. From here we can use a few longer Primer_Prompts. 
+### You can read more about Primer Prompts via the link below
 [The Power of Primer Prompts: Crafting Personalized Conversations with ChatGPT](https://dev.to/ota/the-power-of-primer-prompts-crafting-personalized-conversations-with-chatgpt-4hlm)
 
 - ## Try adding this for extra assurance (theoretically), but also to work on a {Char} Character for your {Story}.
@@ -36,9 +37,10 @@ Non-fiction writers need creativity, research, and clarity. Create timeless work
 ```
 
 # III)
-- ## Next add your input like this, heres an example: 
+- ## Next add your input like this, heres an example:
+![Alt text](assets/Syst_Instruction.png)
 ```
-{Genre= Drama + } {factors= Kid wants to become a scientist, but they come from a rough neighbor and his dads a hitman for a gangster.}
+{Genre= Drama + } {factors= Kid wants to become a scientist,\n but they come from a rough neighbor and his dads a hitman for a gangster.}
 ```
 
 #  IV )
