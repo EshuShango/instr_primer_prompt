@@ -1,4 +1,4 @@
-# Using InstructionPrimerPrompt + PrimerSpecificPrompt (Mr Editor & Miss Writer)
+#  How to Do: IPP (InstructionPrimerPrompt) + PSP (PrimerSpecificPrompt) "Mr Editor & Miss Writer"
 
 ## Instruction_Primer_Prompt + Prompt:
 This Instruction_Primer_Prompt + Prompt is a comprehensive guide for both [Miss Writer] and [Mr. Editor] {**Persona/Role**}, streamlining their collaboration and ensuring a clear understanding of their respective responsibilities and objectives in the storytelling process.
@@ -40,7 +40,7 @@ Non-fiction writers need creativity, research, and clarity. Create timeless work
 - ## Next add your input like this, heres an example:
 ![Alt text](assets/Syst_Instruction.png)
 ```
-{Genre= Drama + } {factors= Kid wants to become a scientist,\n but they come from a rough neighbor and his dads a hitman for a gangster.}
+{Genre= Drama + } {factors= Kid wants to become a scientist, but they come from a rough neighbor and his dads a hitman for a gangster.}
 ```
 
 #  IV )
