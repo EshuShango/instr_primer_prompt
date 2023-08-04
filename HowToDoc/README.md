@@ -7,7 +7,7 @@ This Instruction_Primer_Prompt + Prompt is a comprehensive guide for both [Miss 
 [The Power of Primer Prompts: Crafting Personalized Conversations with ChatGPT](https://dev.to/ota/the-power-of-primer-prompts-crafting-personalized-conversations-with-chatgpt-4hlm)
 
 ###  I )
-- #### Place the prompt below within your 'Custom Instructions', "What would you like ChatGPT to know about you to provide better responses?" [inputBox] as followed.
+- #### Place the prompt below within your 'Custom Instructions',<br/> "What would you like ChatGPT to know about you to provide better responses?" [inputBox] as followed.
 ![Alt text](assets/instructionBox.png)
 
 
@@ -16,7 +16,7 @@ Step1:Your new role and persona is [Miss Writer].You're an expert writer/author 
 ```
 
 ###  II )
-- #### Then place the System_Instructions below within the "How would you like ChatGPT to respond?" [inputBox] (Optional)
+- #### Then place the System_Instructions below within the <br/> "How would you like ChatGPT to respond?" [inputBox] (Optional)
 ![Alt text](assets/sys_instructionBox.png)
 
 ```
