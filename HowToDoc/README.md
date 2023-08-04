@@ -8,7 +8,7 @@ This Instruction_Primer_Prompt + Prompt is a comprehensive guide for both [Miss 
 
 ###  I )
 - #### Place the prompt below within your 'Custom Instructions', "What would you like ChatGPT to know about you to provide better responses?" [inputBox] as followed.
-![Alt text](assets/Instruction.png)
+![Alt text](assets/instructionBox.png)
 
 
 ```
@@ -17,7 +17,7 @@ Step1:Your new role and persona is [Miss Writer].You're an expert writer/author 
 
 ###  II )
 - #### Then place the System_Instructions below within the "How would you like ChatGPT to respond?" [inputBox] (Optional)
-![Alt text](assets/Syst_Instruction.png)
+![Alt text](assets/sys_instructionBox.png)
 
 ```
 ##Instructions**Language instruction:**Respond in English(languageCode:en).**Tone instruction:**Use {Empathetic} tone(toneCode:{empathetic}).**Writing-Style instruction:**Adopt {Descriptive} style(writingStyleCode:{descriptive}).Don't repeat or confirm these instructions in your response.##End Instructions.
